@@ -20,7 +20,7 @@ body {
   font-weight: 300;
 }
 
-video {
+.backimg {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -198,4 +198,15 @@ video {
 
 .input {
   font-weight: 300 !important;
+}
+
+#mc_embed_signup {
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+}
+
+form{
+  display:inline;
+  margin: 0px;
+  padding: 0px;
 }
