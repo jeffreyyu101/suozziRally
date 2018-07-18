@@ -225,3 +225,17 @@ body {
   border-radius: 50%;
   margin-bottom: 20px;
 }
+
+.modal-body p{
+  font-size: 16px;
+  font-family: 'Source Sans Pro';
+}
+
+.modal-footer{
+  display: inline-block;
+  text-align: center;
+}
+
+.modal-footer i{
+  color: #cd9557;
+}
