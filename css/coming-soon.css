@@ -219,3 +219,9 @@ body {
   position: relative;
   background-color: #d3d3d3;
 }
+
+.speaker{
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
