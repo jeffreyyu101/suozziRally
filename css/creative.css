@@ -328,35 +328,3 @@ header.masthead p {
   
 }
 
-.sponsor {
-  max-width: 100%;
-  max-height: 100%;
-  padding: 10px;
-}
-
-.bigSpon{
-  height: 175px;
-}
-
-.medSpon{
-  height: 100px;
-}
-
-.cardB{
-  background-color: rgba(27, 32, 42, .75);
-  border-radius: 25px;
-}
-
-.page-footer{
-    position: static;
-    background-color: #3e99b7;
-    color: white;
-    text-align: center;
-    font-family: 'Open Sans';
-    bottom: 0;
-}
-
-.page-footer a{
-  color: white;
-}
-
