@@ -1,7 +1,7 @@
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #5FAFC9;
+  border-color: rgba(0, 46, 102, 0.8);
 }
 
 hr.light {
