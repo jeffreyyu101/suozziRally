@@ -211,3 +211,8 @@ p{
   font-size: 20px;
   font-family: 'Open Sans';
 }
+
+.footer-copyright{
+  position: relative;
+  background-color: #d3d3d3;
+}
