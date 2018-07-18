@@ -204,16 +204,6 @@ body {
   border-color: #ba7c37 !important;
 }
 
-.input {
-  font-weight: 300 !important;
-}
-
-#mc_embed_signup {
-  clear:left; 
-  font:14px Helvetica,Arial,sans-serif; 
-  padding-left: 0px;
-}
-
 .footer-copyright{
   position: relative;
   background-color: #d3d3d3;
@@ -238,3 +228,14 @@ body {
 .modal-footer i{
   color: #d8872d;
 }
+
+.input {
+  font-weight: 300 !important;
+}
+
+#mc_embed_signup {
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  padding-left: 0px;
+}
+
