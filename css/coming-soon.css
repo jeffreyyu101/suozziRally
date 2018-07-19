@@ -194,6 +194,11 @@ body {
   }
 }
 
+.btn-primary{
+  background-color: #cd9557;
+  border-color: #cd9557;
+}
+
 .btn-secondary {
   background-color: #cd9557;
   border-color: #cd9557;

@@ -276,17 +276,17 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #5FAFC9;
-  border-color: #5FAFC9;
+  background-color: #ffa238;
+  border-color: #ffa238;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #3e99b7 !important;
+  background-color: #cd9557 !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem #70bfe5 !important;
+  box-shadow: 0 0 0 0.2rem #b7854d !important;
 }
 
 .parallax {
