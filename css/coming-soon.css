@@ -194,11 +194,6 @@ body {
   }
 }
 
-.btn-primary{
-  background-color: #cd9557;
-  border-color: #cd9557;
-}
-
 .btn-secondary {
   background-color: #cd9557;
   border-color: #cd9557;
@@ -248,4 +243,8 @@ body {
 .form1{
   position: absolute;
   padding: 0px;
+}
+ 
+video{
+  width: 100%;
 }
