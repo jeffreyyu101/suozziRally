@@ -25,7 +25,7 @@ a:hover {
 }
 
 .bg-dark {
-  background-color: #45516B !important;
+  background-color: rgba(0, 46, 102, 0.8) !important;
 }
 
 .text-faded {
@@ -33,7 +33,7 @@ a:hover {
 }
 
 section {
-  padding: 8rem 0;
+  padding: 5rem 0;
   position: relative;
   z-index: 2;
 }
@@ -278,6 +278,7 @@ header.masthead p {
 .btn-primary {
   background-color: #ffa238;
   border-color: #ffa238;
+  font-size: 1.5rem;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {

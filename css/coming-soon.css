@@ -247,4 +247,10 @@ body {
  
 video{
   width: 100%;
+  margin-top: -5rem;
+  margin-bottom: -5.5rem;
+}
+
+.bg-grey{
+  background-color: #efefef;
 }
